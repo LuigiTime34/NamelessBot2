@@ -10,4 +10,4 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Starting AI Assistant Bot..."
-uv run python ai_assistant.py # Use the renamed file if you did
+uv run python ai_assitants.py # Use the renamed file if you did
